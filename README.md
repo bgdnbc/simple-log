@@ -1,0 +1,2 @@
+# simple-log
+Logging library
